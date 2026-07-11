@@ -1,0 +1,4 @@
+created_at,name,email,country_code,mobile_without_country_code,company,city,state,country,lead_owner,crm_status,crm_note,data_source,possession_time,description
+2026-07-10 10:00:00,Aarav Mehta,aarav.mehta@gmail.com,91,9823456789,Mehta Realty,Mumbai,Maharashtra,India,Rahul Dev,GOOD_LEAD_FOLLOW_UP,Needs pricing list,leads_on_demand,Immediate,Looking to buy 3BHK residential flat
+2026-07-09 14:30:00,Sophia Johnson,sophia.j@techcorp.com,1,5550198877,TechCorp,Seattle,Washington,USA,Sarah Connor,SALE_DONE,Closed via email campaign,eden_park,3 months,Purchased plot in Block A
+2026-07-08 09:15:00,Vikram Singh,vikram@singhbuilders.com,91,9123456780,Singh Builders,Noida,Uttar Pradesh,India,Amit Sharma,DID_NOT_CONNECT,Call scheduled for tomorrow,meridian_tower,Immediate,Building contractor looking for land
